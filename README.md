@@ -360,6 +360,8 @@ If you'd like to contribute:
 
 ```bash
 git clone https://github.com/gouravjangra329041/conduit
+
+Go to your FILE EXPLORER, AND "Extract" the zip file.
 cd conduit
 ```
 
